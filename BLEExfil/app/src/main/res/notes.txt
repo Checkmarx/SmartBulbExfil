@@ -1,0 +1,19 @@
+* Color cycle mode:
+    Packet content: 01fe000053831000
+
+* Normal packet:
+    01fe000053831000 GG BB RR 0050 WW 000000000000
+
+    GG = green
+    BB = blue
+    RR = Red
+    WW = white
+
+
+
+
+
+
+Biblio
+https://en.wikipedia.org/wiki/Visible_light_communication
+https://developer.android.com/reference/android/bluetooth/package-summary.html
